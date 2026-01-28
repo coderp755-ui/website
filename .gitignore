@@ -17,7 +17,7 @@ media/*
 static/*
 local_settings.py
 db.sqlite3
-
+test.sqlite3
 # IDEs and editors
 .idea/
 *.suo
