@@ -1,0 +1,5 @@
+Django==6.0.1
+djangorestframework
+django-cors-headers
+python-decouple
+Pillow
