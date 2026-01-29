@@ -13,7 +13,8 @@ ENV/
 # Django specific
 *.log
 *.pot
-media/*
+# Allow existing media files but ignore future uploads
+# media/*
 static/*
 local_settings.py
 db.sqlite3
